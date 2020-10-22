@@ -1,0 +1,23 @@
+---
+title: "About Philippe"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Me
+
+Welcome to my portfolio website. My name is Philippe, a 25 year old German MFA student at London Business School. Below you find a brief overview of my background:
+
++ Nationality: German
++ Where I have lived: Cologne 1995 - 2016 | Frankfurt 2016 - 2020 | **London 2020 - Present**
++ Undergraduate Degree: Bachelors degreee - Frankfurt School of Finance & Management
++ Hobbies: Tinkering with cars, playing the stock market
++ Career Objectives : Investment Banking - Mergers & Acquisitions
+
+I am a driven and eager person who always pushs himself to new limits. Therefore, I am excited about the about coming challenges at London Business School and the start of my career in Investment Banking
+
+*“There is no passion to be found playing small and settling for a live that’s less than the one you’re capable of living”* Nelson Mandela
+
