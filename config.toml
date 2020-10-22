@@ -38,7 +38,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Philippe Schrage"
-    subtitle = "Car enthusiast"
+    subtitle = "Portfolio Website"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -68,7 +68,7 @@ disqusShortname = ""
 
     # Button Style 1
     [[params.navigation.button1]]
-      name = "Get Started"
+      name = "Learn about me and what I am up to"
       url = "blogs"
 
     # Button Style 2
@@ -81,8 +81,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Forty"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
+    title = "Philippe Schrage"
+    subtitle = "HELLO, MY NAME IS PHILIPPE SCHRAGE. MFA STUDENT AT LONDON BUSINESS SCHOOL. WELCOME TO MY PORTFOLIO!"
     buttonText = "Get Started"
 
 
@@ -92,10 +92,10 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "About Me"
+      #subtitle = "Ipsum Dolor Sit Amet"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "projects/About"
 
     [[params.tiles.showcase]]
       title = "Resume"
@@ -138,12 +138,10 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    title = "My Story and what I did before LBS"
+    #subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
+    I worked full-time for the last four years in Equity Derivatives at different international banks and completed a vocational training as a Banking Professional at Deutsche Bank before that.
+During the past three and a half years, I studied part-time Finance and Management at Frankfurt School and did an internship in Investment Banking as well as in Private Equity."""
     buttonText = "Get Started"
     url = "blogs"
 
