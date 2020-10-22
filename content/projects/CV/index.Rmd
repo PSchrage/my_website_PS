@@ -1,0 +1,9 @@
+---
+title: "CV"
+author: "PS"
+date: "10/22/2020"
+output: html_document
+---
+
+<img src="CV.jpg" alt="drawing" width="800"/>
+
