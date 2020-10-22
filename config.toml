@@ -54,10 +54,14 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "Resume"
       url = "projects/CV"
+      
+    [[params.navigation.links]]
+      name = "Project about Pay Discrimination"
+      url = "projects/Project_1"
 
     [[params.navigation.links]]
       name = "Global Business Environment"
-      url = "elements.html"
+      url = "projects/GBE"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -67,14 +71,14 @@ disqusShortname = ""
     #    url = "UrlOfLink"
 
     # Button Style 1
-    [[params.navigation.button1]]
-      name = "Learn about me and what I am up to"
-      url = "blogs"
+    #[[params.navigation.button1]]
+     # name = "About me"
+      #url = "blogs"
 
     # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+    #[[params.navigation.button2]]
+     # name = "Log In"
+      #url = "#"
 
 
   # Banner section
@@ -104,14 +108,14 @@ disqusShortname = ""
       url = "projects/CV"
 
     [[params.tiles.showcase]]
-      title = "Project 1"
-      #subtitle = "Lorem Etiam Nullam"
+      title = "Project"
+      subtitle = "about Pay Discrimination"
       image = "pic03.jpg"
-      url = "project/Project_1"
+      url = "projects/Project_1"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      #subtitle = "Nisl Sed Aliquam"
+      title = "Global Business Environment"
+      subtitle = "The Great Decoupling"
       image = "pic04.jpg"
       url = "projects/GBE"
 
@@ -175,11 +179,11 @@ During the past three and a half years, I studied part-time Finance and Manageme
     title = "Phone"
     phone = "+49 1520 145 3811"
 
-    [[params.contact.address]]
-    title = "Address"
-    street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    #[[params.contact.address]]
+    #title = "Address"
+    #street = "Street"
+    #city = "City, ST 00000"
+    #country = "Country"
 
   # Footer section
   [params.footer]
