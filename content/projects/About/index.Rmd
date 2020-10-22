@@ -1,5 +1,5 @@
 ---
-title: "About Philippe"
+title: "About Me"
 output: html_document
 ---
 
@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## About Me
+## Philippe Schrage
 
 Welcome to my portfolio website. My name is Philippe, a 25 year old German MFA student at London Business School. Below you find a brief overview of my background:
 
