@@ -48,15 +48,15 @@ disqusShortname = ""
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
-      url = "blogs"
+      name = "About Me"
+      url = "projects/About"
 
     [[params.navigation.links]]
-      name = "New Blogs"
-      url = "blogs/ipsum"
+      name = "Resume"
+      url = "projects/CV"
 
     [[params.navigation.links]]
-      name = "Elements"
+      name = "Global Business Environment"
       url = "elements.html"
 
     # Add custom links here by uncommenting code below. To remove links just delete
@@ -104,28 +104,28 @@ disqusShortname = ""
       url = "projects/CV"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
+      title = "Project 1"
+      #subtitle = "Lorem Etiam Nullam"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "project/Project_1"
 
     [[params.tiles.showcase]]
       title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
+      #subtitle = "Nisl Sed Aliquam"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "projects/GBE"
 
-    [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+    #[[params.tiles.showcase]]
+      #title = "Consequat"
+    #subtitle = "Ipsum Dolor Sit Amet"
+      #image = "pic05.jpg"
+      #url = "blogs/ipsum"
 
-    [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
+    #[[params.tiles.showcase]]
+     # title = "Etiam"
+      #subtitle = "Feugiat Amet Tempus"
+      #image = "pic06.jpg"
+      #url = "blogs/ipsum"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -138,7 +138,7 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "My Story and what I did before LBS"
+    title = "My Story and What I Did Before LBS"
     subtitle = """I worked full-time for the last four years in Equity Derivatives at different international banks and completed a vocational training as a Banking Professional at Deutsche Bank before that.
 During the past three and a half years, I studied part-time Finance and Management at Frankfurt School and did an internship in Investment Banking as well as in Private Equity."""
     buttonText = "Get Started"
@@ -169,11 +169,11 @@ During the past three and a half years, I studied part-time Finance and Manageme
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "pschrage.mfa2021@london.edu"
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    phone = "+49 1520 145 3811"
 
     [[params.contact.address]]
     title = "Address"
@@ -186,22 +186,6 @@ During the past three and a half years, I studied part-time Finance and Manageme
     enable = true
     copyright = "Company Name"
 
-    # Uses font awesome icons
-    [[params.footer.social]]
-      icon = "fa-twitter"
-      url= "https://www.twitter.com"
-      label = "Twitter"
-
-    [[params.footer.social]]
-      icon = "fa-facebook"
-      url= "https://www.facebook.com"
-      label = "Facebook"
-
-    [[params.footer.social]]
-      icon = "fa-instagram"
-      url= "https://www.instagram.com"
-      label = "Instagram"
-    
     [[params.footer.social]]
       icon = "fa-github"
       url= "https://www.github.com"
@@ -211,8 +195,3 @@ During the past three and a half years, I studied part-time Finance and Manageme
       icon = "fa-linkedin"
       url= "https://www.linkedin.com"
       label = "LinkedIn"
-
-    [[params.footer.quicklinks]]
-      text = "Design: "
-      url= "https://www.html5up.net"
-      alt = "HTML5 UP"
